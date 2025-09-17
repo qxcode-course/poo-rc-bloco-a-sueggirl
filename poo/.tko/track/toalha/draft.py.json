@@ -1,0 +1,24 @@
+{
+    "patches": [
+        {
+            "label": "2025-09-17_14-53-00",
+            "content": "@@ -170,18 +170,8 @@\n cor \n-e tamanho \n da s\n@@ -203,23 +203,8 @@\n t()%0A\n-size = input()%0A\n towe\n@@ -227,20 +227,19 @@\n (color, \n-size\n+%22p%22\n )%0Aprint(\n@@ -270,21 +270,6 @@\n lor%7D\n- e %7Btowel.size%7D\n %22)\n",
+            "lines": "13"
+        },
+        {
+            "label": "2025-09-17_14-57-27",
+            "content": "@@ -256,11 +256,12 @@\n or, \n-%22p%22\n+size\n )%0Apr\n",
+            "lines": "14"
+        },
+        {
+            "label": "2025-09-17_14-58-17",
+            "content": "@@ -42,17 +42,16 @@\n or: str,\n- \n size: st\n@@ -54,16 +54,16 @@\n : str):%0A\n+\n         \n@@ -147,16 +147,17 @@\n nt = 0%0A%0A\n+%0A\n print(%22Q\n@@ -252,20 +252,19 @@\n (color, \n-size\n+%22p%22\n )%0Aprint(\n",
+            "lines": "14"
+        },
+        {
+            "label": "2025-09-17_14-59-50",
+            "content": "\n\nclass Towel:\n    def __init__(self, color: str, size: str):\n        self.color: str = color\n        self.size: str = size\n        self.wetness: int = 0\n\nprint(\"Qual a cor e tamanho da sua toalha?\")\ncolor = input()\nsize = input()\ntowel: Towel = Towel(color, size)\nprint(f\"Sua toalha \u00e9 {towel.color} e {towel.size}\")",
+            "lines": "13"
+        }
+    ]
+}
