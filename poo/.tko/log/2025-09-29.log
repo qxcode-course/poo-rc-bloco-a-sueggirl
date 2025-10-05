@@ -9,3 +9,4 @@
 2025-09-29 11:50:01, MOVE, v:1, k:carro, mode:PICK
 2025-09-29 11:50:05, EXEC, v:1, k:carro, mode:FULL, rate:0
 2025-09-29 11:53:20, MOVE, v:1, k:carro, mode:BACK
+2025-09-29 11:55:09, SELF, v:1, k:carro

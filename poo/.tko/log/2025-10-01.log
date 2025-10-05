@@ -1,0 +1,7 @@
+2025-10-01 11:19:04, MOVE, v:1, k:enxugar, mode:PICK
+2025-10-01 11:19:07, EXEC, v:1, k:enxugar, mode:FULL, rate:0, size:54
+2025-10-01 11:29:25, EXEC, v:1, k:enxugar, mode:FULL, rate:100, size:57
+2025-10-01 11:29:36, EXEC, v:1, k:enxugar, mode:FULL, rate:100
+2025-10-01 11:29:43, EXEC, v:1, k:enxugar, mode:FREE
+2025-10-01 11:30:54, MOVE, v:1, k:enxugar, mode:BACK
+2025-10-01 11:33:02, SELF, v:1, k:enxugar, rate:100, human:2, iagen:nao_foi_util, alone:4, study:80
