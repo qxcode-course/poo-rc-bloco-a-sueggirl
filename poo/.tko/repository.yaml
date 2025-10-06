@@ -8,8 +8,12 @@ database: database
 expanded:
 - campanha-principal
 - bloco_b-primeiras-classes
+- bloco_b-modificadores-de-acesso
 tasks:
   toalha: '{rate:100, alone:10}'
+  animal: '{rate:100, iagen:2, alone:7, study:35}'
+  carro: '{rate:100, human:2, alone:8, study:66}'
+  calculadora: '{rate:100, human:2, alone:10, study:15}'
   enxugar: '{rate:100, human:2, iagen:nao_foi_util, alone:4, study:80}'
 flags:
   quests: 2
@@ -17,4 +21,4 @@ flags:
   tasks: 0
   graph: 0
   xray: 0
-index: animal
+index: calculadora
